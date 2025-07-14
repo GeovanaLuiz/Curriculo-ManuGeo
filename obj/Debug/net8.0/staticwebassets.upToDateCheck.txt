@@ -1,0 +1,6 @@
+wwwroot\6073873.png
+wwwroot\app.css
+wwwroot\bootstrap\bootstrap.min.css
+wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\favicon.png
+wwwroot\Manu-Curriculo.css
