@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeoManu-Curriculo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f08915583d5e67acad787c7a33bec061e06a5c1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeoManu-Curriculo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeoManu-Curriculo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

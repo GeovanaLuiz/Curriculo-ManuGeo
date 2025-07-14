@@ -30,3 +30,32 @@ C:\Users\2023102020024\Documents\Visual PDS\GeoManu-Curriculo\obj\Debug\net8.0\r
 C:\Users\2023102020024\Documents\Visual PDS\GeoManu-Curriculo\obj\Debug\net8.0\GeoManu-Curriculo.pdb
 C:\Users\2023102020024\Documents\Visual PDS\GeoManu-Curriculo\obj\Debug\net8.0\GeoManu-Curriculo.genruntimeconfig.cache
 C:\Users\2023102020024\Documents\Visual PDS\GeoManu-Curriculo\obj\Debug\net8.0\ref\GeoManu-Curriculo.dll
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\bin\Debug\net8.0\appsettings.json
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\bin\Debug\net8.0\GeoManu-Curriculo.staticwebassets.runtime.json
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\bin\Debug\net8.0\GeoManu-Curriculo.staticwebassets.endpoints.json
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\bin\Debug\net8.0\GeoManu-Curriculo.exe
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\bin\Debug\net8.0\GeoManu-Curriculo.deps.json
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\bin\Debug\net8.0\GeoManu-Curriculo.runtimeconfig.json
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\bin\Debug\net8.0\GeoManu-Curriculo.dll
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\bin\Debug\net8.0\GeoManu-Curriculo.pdb
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\obj\Debug\net8.0\GeoManu-Curriculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\obj\Debug\net8.0\GeoManu-Curriculo.AssemblyInfoInputs.cache
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\obj\Debug\net8.0\GeoManu-Curriculo.AssemblyInfo.cs
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\obj\Debug\net8.0\GeoManu-Curriculo.csproj.CoreCompileInputs.cache
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\obj\Debug\net8.0\GeoManu-Curriculo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\obj\Debug\net8.0\GeoManu-Curriculo.sourcelink.json
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\obj\Debug\net8.0\scopedcss\bundle\GeoManu-Curriculo.styles.css
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\obj\Debug\net8.0\scopedcss\projectbundle\GeoManu-Curriculo.bundle.scp.css
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\obj\Debug\net8.0\GeoManu-Curriculo.dll
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\obj\Debug\net8.0\refint\GeoManu-Curriculo.dll
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\obj\Debug\net8.0\GeoManu-Curriculo.pdb
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\obj\Debug\net8.0\GeoManu-Curriculo.genruntimeconfig.cache
+C:\Users\geova\OneDrive\Documentos\Projetos\Curriculo-ManuGeo\obj\Debug\net8.0\ref\GeoManu-Curriculo.dll
