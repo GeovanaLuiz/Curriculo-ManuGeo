@@ -1,26 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\geova\\OneDrive\\Documentos\\Projetos\\Curriculo-ManuGeo\\",
+  "WorkspaceRootPath": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|c:\\users\\geova\\onedrive\\documentos\\projetos\\curriculo-manugeo\\components\\pages\\curriculo-geovana.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|solutionrelative:components\\pages\\curriculo-geovana.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|c:\\users\\geova\\onedrive\\documentos\\projetos\\curriculo-manugeo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|c:\\users\\2023102020024\\documents\\github\\curriculo-manugeo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|c:\\users\\geova\\onedrive\\documentos\\projetos\\curriculo-manugeo\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|c:\\users\\2023102020024\\documents\\github\\curriculo-manugeo\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|c:\\users\\geova\\onedrive\\documentos\\projetos\\curriculo-manugeo\\components\\pages\\curriculo-manu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|c:\\users\\2023102020024\\documents\\github\\curriculo-manugeo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|c:\\users\\2023102020024\\documents\\github\\curriculo-manugeo\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|solutionrelative:components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|c:\\users\\2023102020024\\documents\\github\\curriculo-manugeo\\components\\pages\\curriculo-manu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|solutionrelative:components\\pages\\curriculo-manu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|c:\\users\\geova\\onedrive\\documentos\\projetos\\curriculo-manugeo\\wwwroot\\geovana.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|c:\\users\\2023102020024\\documents\\github\\curriculo-manugeo\\components\\pages\\curriculo-geovana.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|solutionrelative:components\\pages\\curriculo-geovana.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|c:\\users\\2023102020024\\documents\\github\\curriculo-manugeo\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|c:\\users\\2023102020024\\documents\\github\\curriculo-manugeo\\wwwroot\\geovana.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|solutionrelative:wwwroot\\geovana.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|c:\\users\\2023102020024\\documents\\github\\curriculo-manugeo\\wwwroot\\manu-curriculo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|solutionrelative:wwwroot\\manu-curriculo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|c:\\users\\2023102020024\\documents\\github\\curriculo-manugeo\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|c:\\users\\2023102020024\\documents\\github\\curriculo-manugeo\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DDA1564-DE02-4C01-AF96-AE2CE889073C}|GeoManu-Curriculo.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +54,151 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T14:28:29.39Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Curriculo-Manu.razor",
-              "DocumentMoniker": "C:\\Users\\geova\\OneDrive\\Documentos\\Projetos\\Curriculo-ManuGeo\\Components\\Pages\\Curriculo-Manu.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Curriculo-Manu.razor",
-              "ToolTip": "C:\\Users\\geova\\OneDrive\\Documentos\\Projetos\\Curriculo-ManuGeo\\Components\\Pages\\Curriculo-Manu.razor",
-              "RelativeToolTip": "Components\\Pages\\Curriculo-Manu.razor",
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T14:24:20.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Manu-Curriculo.css",
+              "DocumentMoniker": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\wwwroot\\Manu-Curriculo.css",
+              "RelativeDocumentMoniker": "wwwroot\\Manu-Curriculo.css",
+              "ToolTip": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\wwwroot\\Manu-Curriculo.css",
+              "RelativeToolTip": "wwwroot\\Manu-Curriculo.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-14T14:23:21.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T14:20:15.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T14:19:00.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T14:18:58.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Curriculo-Manu.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\Components\\Pages\\Curriculo-Manu.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Curriculo-Manu.razor",
+              "ToolTip": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\Components\\Pages\\Curriculo-Manu.razor",
+              "RelativeToolTip": "Components\\Pages\\Curriculo-Manu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-14T14:10:46.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\geova\\OneDrive\\Documentos\\Projetos\\Curriculo-ManuGeo\\Components\\App.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\Components\\App.razor",
               "RelativeDocumentMoniker": "Components\\App.razor",
-              "ToolTip": "C:\\Users\\geova\\OneDrive\\Documentos\\Projetos\\Curriculo-ManuGeo\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\Components\\App.razor",
               "RelativeToolTip": "Components\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-14T14:10:09.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Geovana.css",
-              "DocumentMoniker": "C:\\Users\\geova\\OneDrive\\Documentos\\Projetos\\Curriculo-ManuGeo\\wwwroot\\Geovana.css",
+              "DocumentMoniker": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\wwwroot\\Geovana.css",
               "RelativeDocumentMoniker": "wwwroot\\Geovana.css",
-              "ToolTip": "C:\\Users\\geova\\OneDrive\\Documentos\\Projetos\\Curriculo-ManuGeo\\wwwroot\\Geovana.css",
+              "ToolTip": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\wwwroot\\Geovana.css",
               "RelativeToolTip": "wwwroot\\Geovana.css",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-07-14T14:07:15.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\geova\\OneDrive\\Documentos\\Projetos\\Curriculo-ManuGeo\\Components\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\geova\\OneDrive\\Documentos\\Projetos\\Curriculo-ManuGeo\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-14T14:05:49.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Curriculo-Geovana.razor",
-              "DocumentMoniker": "C:\\Users\\geova\\OneDrive\\Documentos\\Projetos\\Curriculo-ManuGeo\\Components\\Pages\\Curriculo-Geovana.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\Components\\Pages\\Curriculo-Geovana.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Curriculo-Geovana.razor",
-              "ToolTip": "C:\\Users\\geova\\OneDrive\\Documentos\\Projetos\\Curriculo-ManuGeo\\Components\\Pages\\Curriculo-Geovana.razor",
+              "ToolTip": "C:\\Users\\2023102020024\\Documents\\GitHub\\Curriculo-ManuGeo\\Components\\Pages\\Curriculo-Geovana.razor",
               "RelativeToolTip": "Components\\Pages\\Curriculo-Geovana.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-14T14:04:06.631Z",
               "EditorCaption": ""

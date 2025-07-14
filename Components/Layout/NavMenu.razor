@@ -7,21 +7,26 @@
 <input type="checkbox" title="Navigation menu" class="navbar-toggler" />
 
 <div class="nav-scrollable" onclick="document.querySelector('.navbar-toggler').click()">
-    <nav class="flex-column">
+    <nav class="flex-column">    
+        
+       <div class="nav-item px-3">
+         <NavLink class="nav-link" href="/">
+                <i class="fa-solid fa-house" style="margin-right:9px"></i> Home
+          </NavLink>
+        </div>
 
         <div class="nav-item px-3">
             <NavLink class="nav-link" href="Curriculo-Manu">
-                <i class="fa-solid fa-clipboard" style="margin-right:9px"></i> Manuela -> Curriculo
+                <i class="fa-solid fa-address-book" style="margin-right:9px"></i> Manuela Curriculo
             </NavLink>
 
         </div>
 
         <div class="nav-item px-3">
             <NavLink class="nav-link" href="Curriculo-Geovana">
-                <i class="fa-solid fa-clipboard" style="margin-right:9px"></i> Geovana -> Curriculo
-            </NavLink>
-
-        </div>
+                <i class="fa-solid fa-address-book" style="margin-right:9px"></i>Geovana Curriculo
+            </NavLink> 
+         </div> 
     </nav>
 </div>
 
